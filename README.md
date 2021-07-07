@@ -1,10 +1,22 @@
 # Contact-List--MEN
-Tech used 
-------
+
+## Tech used
+
 - NodeJs
 - MongoDB
 - ExpressJs
 
-## To do's in this list
-- Complete the MongoDB
-- Deploy it
+C R U D operations used
+
+## Functionalities
+
+- Add contact information
+- Delete contact information
+
+## Functionalities to be implemented
+
+- Update contact information
+
+## Demo
+
+![GitHub Logo](./assets/images/demo.png)
